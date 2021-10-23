@@ -9,7 +9,9 @@ Install SDL2, SDL2_ttf and tinyexpr, before open the project in codeblocks  or y
 
 To add expression press [ENTER] in the graph interface, before press thre expression like: x^2 or cos x and press [ENTER] again to confirm, finally show the function in the graph.
 
-**Printscrenn**
+
+
+**Printscreen**
 
 <img src="imagens/Capturar.PNG"
      alt="Captura dos pacotes"
